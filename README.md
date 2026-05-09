@@ -115,9 +115,3 @@ The `main()` function walks through seven test cases:
 - **In-place traversal** — all operations run in O(n) without extra data structures (except `displayDescending`)
 - **Edge case handling** — empty list checks, head insertion, tail insertion, mid-list operations
 
----
-
-## 👤 Author
-
-**Esmail Emad El-Din Mohamed**  
-Cairo University — Computer Science & Artificial Intelligence
